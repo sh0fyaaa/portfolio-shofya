@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(34, 20, 2);
+    background: url(https://i.pinimg.com/736x/1e/9c/ad/1e9cadfe4532e098171e92b812b8b8b8.jpg) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-attachment: scroll;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 4cm;
+    margin-left: 4cm;
+    margin-bottom: 3cm;
+    margin-right: 3cm;
+}
+
+h2{
+    color: rgb(218, 143, 52);
+    text-align: center;
+}
+
+p{
+    color: blanchedalmond;
+    font-size: 16px;
+    text-align: justify;
+    text-indent: 40px;
+}
+.paraf1{
+
+}
+
+#paraf1{
+    
+}
+
+
+
+h3{
+    color: rgb(94, 64, 25);
+}

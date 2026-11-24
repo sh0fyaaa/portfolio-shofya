@@ -1,0 +1,41 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    margin-left: auto;margin-right: auto;
+    background-color: rgb(192, 125, 125);
+    max-width: 600px;
+}
+  header{
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+  .button-cta{
+    border-radius: 1em;
+        margin-bottom: 1em;
+        padding: 1em;
+        background-color: rgb(233, 139, 136);
+        cursor: pointer;
+    }
+
+    article{
+        border: 1px solid silver;
+        border-radius: 0.8cm;
+        padding: 1em;
+        margin-bottom: 1em;
+       
+        background-color: white;
+
+
+    }
+    
+  .action-buttons{
+    border-radius: 1em;
+        margin-bottom: 1em;
+        background-color: rgb(233,139,136);
+        padding: 1em;
+    }
+
+   
+
+  
+    
